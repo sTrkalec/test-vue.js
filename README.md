@@ -1,7 +1,9 @@
 # Test-Vue.js
 
 
-![Captura de tela 2021-05-31 143608](https://user-images.githubusercontent.com/57048555/120226509-b74c4080-c21d-11eb-9efa-06604287d3cd.jpg)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/57048555/120815641-6478ce80-c526-11eb-8b4f-4879bba11574.gif" alt="GIF" />
+</p>
 
 
 <p align="center">
@@ -22,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Projeto
 
-Projeto feito com o foco de aprendizado com o framework Vue.js
+- Projeto feito com o foco de aprendizado com o framework Vue.js
 ---
 
 ## Project setup
